@@ -1,1 +1,1 @@
-# bookbot
+# bookbot is my first github project. It uses python code to analyze large text files and print out statistics. 
